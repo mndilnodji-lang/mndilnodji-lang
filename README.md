@@ -19,13 +19,13 @@ Mon objectif est de faire parler les données pour résoudre des problèmes comp
 | Catégorie | Technologies |
 | :--- | :--- |
 | **Langages** | Python, R, SQL |
-| **Librairies Data** | Pandas, NumPy, SciPy |
-| **Machine Learning** | Scikit-Learn, XGBoost, LightGBM |
+| **Librairies Data** | Pandas, NumPy, SciPy, TensorFlow |
+| **Machine Learning** | Scikit-Learn, XGBoost, LightGBM, Regréssion linéaire, Regréssion logistique, Clustering |
 | **Visualisation** | Matplotlib, Seaborn, Plotly, Tableau |
 
 ### ⚙️ Outils & Environnements
 * **Versionning & Cloud :** Git, GitHub
-* **Environnements :** Jupyter Notebook, VS Code
+* **Environnements :** Jupyter Notebook, Latex, VS Code
 * **Bases de données :** PostgreSQL, MySQL
 
 ---
