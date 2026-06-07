@@ -2,7 +2,7 @@
 
 Passionné par l'intersection des mathématiques appliquées et de la donnée, je traduis des volumes de données complexes en insights exploitables et en modèles prédictifs performants.
 
-### 🚀 Junior Data Scientist |Data analytics| Applied Mathematics & Machine Learning
+### 🚀 Junior Data Scientist | Data analytics | Applied Mathematics & Machine Learning
 
 ---
 - 🌍 Basé à Ndjaména, Tchad
