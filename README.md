@@ -1,14 +1,16 @@
 # Salut ! Moi c'est Magloire 👋
 
-Mon objectif est de faire parler les données pour résoudre des problèmes complexes et générer de la valeur.
+Passionné par l'intersection des mathématiques appliquées et de la donnée, je traduis des volumes de données complexes en insights exploitables et en modèles prédictifs performants.
+
+### 🚀 Junior Data Scientist |Data analytics| Applied Mathematics & Machine Learning
 
 ---
-
-## 🚀 À propos de moi
-
+- 🌍 Basé à Ndjaména, Tchad
+- 🎓 Titulaire d'un Master en Mathématiques Appliquées & Modélisation
+- 📜 Certifié **Google Advanced Data Analytics**
 - 📊 **Poste actuel :** Data Scientist Junior engagé dans la création de solutions basées sur la data.
 - 💡 **Centres d'intérêt :** Machine Learning, Retail Analytics, Modélisation Mathématique et Visualisation de données.
-- 🌱 **En plein apprentissage :** Optimisation des pipelines d'intégration continue (CI/CD) pour le MLOps.
+- 🌱 **En plein apprentissage :** 
 - 🎯 **Objectif :** Développer des modèles robustes, scalables et facilement interprétables.
 
 ---
@@ -18,10 +20,10 @@ Mon objectif est de faire parler les données pour résoudre des problèmes comp
 ### 🐍 Programmation & Data Science
 | Catégorie | Technologies |
 | :--- | :--- |
-| **Langages** | Python, R, SQL |
-| **Librairies Data** | Pandas, NumPy, SciPy, TensorFlow |
+| **Langages** | Python, R, SQL; Anaconda |
+| **Librairies Data** | Pandas, NumPy, Scikit-Learn, SciPy, TensorFlow |
 | **Machine Learning** | Scikit-Learn, XGBoost, LightGBM, Regréssion linéaire, Regréssion logistique, Clustering |
-| **Visualisation** | Matplotlib, Seaborn, Plotly, Tableau |
+| **Visualisation** | Matplotlib, Seaborn, Plotly, Tableau, Power BI |
 
 ### ⚙️ Outils & Environnements
 * **Versionning & Cloud :** Git, GitHub
