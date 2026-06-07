@@ -46,9 +46,9 @@ Mon objectif est de faire parler les données pour résoudre des problèmes comp
 
 ---
 
-%## 📊 Statistiques GitHub
+## 📊 Statistiques GitHub
 
-%Puisque les chiffres ne mentent jamais :
+Puisque les chiffres ne mentent jamais :
 
 ⚡ [![Statistiques GitHub de [Ton Pseudo]](https://github-readme-stats.vercel.app/api?username=[TonPseudoGitHub]&show_icons=true&theme=radial)](https://github.com/[TonPseudoGitHub])
 
@@ -58,6 +58,6 @@ Mon objectif est de faire parler les données pour résoudre des problèmes comp
 
 On discute de Data, d'opportunités ou de projets cool ?
 
-* 💼 **LinkedIn :** [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
-* 📧 **Email :** [ton.adresse.email@example.com]
+* 💼 **LinkedIn :** [linkedin.com/in/magloire-ndilnodji](https://linkedin.com/in/magloire-ndilnodji)
+* 📧 **Email :** [mndilnodji@gmail.com]
 * 🌐 **Mon Portfolio / Site :** [Lien vers ton site si tu en as un]
