@@ -32,19 +32,40 @@ Passionné par l'intersection des mathématiques appliquées et de la donnée, j
 
 ---
 
-## 📈 Projets Phares
+## 📈 Mes Projets
 
-### 🛍️ [Nom du Projet 1 : ex: Analyse de Segmentation Client RFM]
-* **Description :** Analyse approfondie d'un jeu de données retail pour segmenter les clients selon leur récence, fréquence et montant d'achat (RFM).
-* **Technologies :** Python, Pandas, K-Means Clustering, Seaborn.
-* **Résultat :** Identification de 5 profils types permettant de cibler les campagnes marketing de manière optimale.
-* 👉 [Voir le repository](lien-vers-ton-repo-1)
+### Projets data sciences
 
-### 📊 [Nom du Projet 2 : ex: Modélisation Épidémiologique Ross-Macdonald]
-* **Description :** Simulation et analyse de la propagation de maladies vectorielles à l'aide de modèles mathématiques différentiels.
+### 🛍️ Projet 1 : Prévision des pourboires des taxis dans la ville de New York
+* **Description :** Utilisation de la régression multiple pour prédire les tarifs des taxis, données
+qui seront utilisées dans le cadre d’une suite de modèles visant à optimiser les revenus de la Commission des
+taxis et limousines de New York et de ses chauffeurs.
+* **Technologies :** Python, Pandas, XGBoost, Seaborn.
+* **Résultat :**
+* 👉 [Voir le repository](lien-vers-ton-repo-1) 
+
+### 📊 Projet 2 : Classification des vidéos TikTok
+* **Description :** Utilisation de statsmodels et de Scikit-learn pour prédire si les vidéos
+présentaient des affirmations ou des opinions afin d’améliorer le processus de triage des vidéos pour un examen
+humain.
 * **Technologies :** Python, NumPy, SciPy (ODEint), Matplotlib.
-* **Résultat :** Évaluation de l'impact des stratégies de contrôle sur le taux de reproduction de base ($R_0$).
+* **Résultat :** 
 * 👉 [Voir le repository](lien-vers-ton-repo-2)
+
+### 📊 Projet 3 : Classification des données Waze
+* **Description :** Utilisation de Arbre décisionnel, Forêts d’arbres décisionnels et XGBoost pour prédire
+le taux de désabonnement des utilisateurs de Waze.
+* **Technologies :** Python, NumPy, SciPy (ODEint), Matplotlib.
+* **Résultat :** 
+* 👉 [Voir le repository](lien-vers-ton-repo-3)
+
+### 📊 Projet 4 : Classification des aéroports
+* **Description :** Utilisation de K-means et fuzzy K-means pour identifier les aéroports
+similaires en fonction du nombre d’occurrences d’événements météorologiques survenus dans cet aéroport
+particulier aux États-Unis.
+* **Technologies :** Python, NumPy, SciPy (ODEint), Matplotlib.
+* **Résultat :** 
+* 👉 [Voir le repository](lien-vers-ton-repo-4)
 
 ---
 
@@ -52,7 +73,7 @@ Passionné par l'intersection des mathématiques appliquées et de la donnée, j
 
 Puisque les chiffres ne mentent jamais :
 
-⚡ [![Statistiques GitHub de [Ton Pseudo]](https://github-readme-stats.vercel.app/api?username=[TonPseudoGitHub]&show_icons=true&theme=radial)](https://github.com/[TonPseudoGitHub])
+⚡ [![Statistiques GitHub de mndilnodji-lang](https://github-readme-stats.vercel.app/api?username=mndilnodji-lang&show_icons=true&theme=radial)](https://github.com/mndilnodji-lang)
 
 ---
 
