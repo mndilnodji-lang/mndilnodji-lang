@@ -42,7 +42,7 @@ qui seront utilisées dans le cadre d’une suite de modèles visant à optimise
 taxis et limousines de New York et de ses chauffeurs.
 * **Technologies :** Python, Pandas, XGBoost, Seaborn.
 * **Résultat :**
-* 👉 [Voir le repository](mndilnodji-lang/Prevision-des-pourboires-des-taxis-dans-la-ville-de-New-York) 
+* 👉 [Voir le repository](Prevision-des-pourboires-des-taxis-dans-la-ville-de-New-York) 
 
 ### 📊 Projet 2 : Classification des vidéos TikTok
 * **Description :** Utilisation de statsmodels et de Scikit-learn pour prédire si les vidéos
