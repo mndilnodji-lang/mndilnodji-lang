@@ -9,7 +9,7 @@ Passionné par l'intersection des mathématiques appliquées et de la donnée, j
 - 🎓 Titulaire d'un Master en Mathématiques Appliquées & Modélisation
 - 📜 Certifié **Google Advanced Data Analytics**
 - 📊 **Poste actuel :** Data Scientist Junior engagé dans la création de solutions basées sur la data.
-- 💡 **Centres d'intérêt :** Machine Learning, Retail Analytics, Modélisation Mathématique et Visualisation de données.
+- 💡 **Centres d'intérêt :** Machine Learning, data Analytics, Modélisation Mathématique et Visualisation de données.
 - 🌱 **En plein apprentissage :** 
 - 🎯 **Objectif :** Développer des modèles robustes, scalables et facilement interprétables.
 
@@ -48,14 +48,14 @@ taxis et limousines de New York et de ses chauffeurs.
 * **Description :** Utilisation de statsmodels et de Scikit-learn pour prédire si les vidéos
 présentaient des affirmations ou des opinions afin d’améliorer le processus de triage des vidéos pour un examen
 humain.
-* **Technologies :** Python, NumPy, SciPy (ODEint), Matplotlib.
+* **Technologies :** Python, Jupiter notebook, NumPy, Matplotlib, Scikit-learn.
 * **Résultat :** 
 * 👉 [Voir le repository](lien-vers-ton-repo-2)
 
 ### 📊 Projet 3 : Classification des données Waze
 * **Description :** Utilisation de Arbre décisionnel, Forêts d’arbres décisionnels et XGBoost pour prédire
 le taux de désabonnement des utilisateurs de Waze.
-* **Technologies :** Python, NumPy, SciPy (ODEint), Matplotlib.
+* **Technologies :** Python, NumPy, Matplotlib.
 * **Résultat :** 
 * 👉 [Voir le repository](lien-vers-ton-repo-3)
 
@@ -63,7 +63,7 @@ le taux de désabonnement des utilisateurs de Waze.
 * **Description :** Utilisation de K-means et fuzzy K-means pour identifier les aéroports
 similaires en fonction du nombre d’occurrences d’événements météorologiques survenus dans cet aéroport
 particulier aux États-Unis.
-* **Technologies :** Python, NumPy, SciPy (ODEint), Matplotlib.
+* **Technologies :** Python, NumPy, Matplotlib.
 * **Résultat :** 
 * 👉 [Voir le repository](lien-vers-ton-repo-4)
 
