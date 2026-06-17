@@ -76,4 +76,3 @@ On discute de Data, d'opportunités ou de projets cool ?
 
 * 💼 **LinkedIn :** [linkedin.com/in/magloire-ndilnodji](https://linkedin.com/in/magloire-ndilnodji)
 * 📧 **Email :** [mndilnodji@gmail.com]
-* 🌐 **Mon Portfolio / Site :** [Lien vers ton site si tu en as un]
