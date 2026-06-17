@@ -40,7 +40,7 @@ Passionné par l'intersection des mathématiques appliquées et de la donnée, j
 * **Description :** Utilisation de la régression multiple pour prédire les tarifs des taxis, données
 qui seront utilisées dans le cadre d’une suite de modèles visant à optimiser les revenus de la Commission des
 taxis et limousines de New York et de ses chauffeurs.
-* Voici le lien vers mon projet : [github.com/mndinodji-lang/Prevision-des-pourboires-des-taxis-dans-la-ville-de-New-York](https://github.com/mndinodji-lang/Prevision-des-pourboires-des-taxis-dans-la-ville-de-New-York)
+* Voici le lien vers mon projet : [Prevision-des-pourboires-des-taxis-dans-la-ville-de-New-York](https://github.com/mndinodji-lang/Prevision-des-pourboires-des-taxis-dans-la-ville-de-New-York)
 * 👉 [Voir le repository](https://github.com/mndinodji-lang/Prevision-des-pourboires-des-taxis-dans-la-ville-de-New-York) 
 
 ### 📊 Projet 2 : Classification des vidéos TikTok
