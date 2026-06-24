@@ -73,5 +73,5 @@ Puisque les chiffres ne mentent jamais :
 
 On discute de Data, d'opportunités ou de projets cool ?
 
-* 💼 **LinkedIn :** [linkedin.com/in/magloire-ndilnodji](https://linkedin.com/in/magloire-ndilnodji)
+* 💼 **LinkedIn :** [magloire-ndilnodji](https://linkedin.com/magloire-ndilnodji)
 * 📧 **Email :** [mndilnodji@gmail.com]
