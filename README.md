@@ -6,11 +6,11 @@ Passionné par l'intersection des mathématiques appliquées et de la donnée, j
 
 ---
 - 🌍 Basé à Ndjaména, Tchad
-- 🎓 Titulaire d'un Master en Mathématiques Appliquées & Modélisation
-- 📜 Certifié **Google Advanced Data Analytics, Google AI Essentials**
+- 🎓 Titulaire d'un Master en **Mathématiques Appliquées & Modélisation**
+- 📜 Certifié **Google Advanced Data Analytics** et **Google AI Essentials**
 - 📊 **Poste actuel :** Data Scientist Junior engagé dans la création de solutions basées sur la data.
 - 💡 **Centres d'intérêt :** Machine Learning, data Analytics, Modélisation Mathématique et Visualisation de données.
-- 🌱 **En plein apprentissage :** 
+- 🌱 **En plein apprentissage :** Google IA professionnel et MLOps. 
 - 🎯 **Objectif :** Développer des modèles robustes, scalables et facilement interprétables.
 
 ---
