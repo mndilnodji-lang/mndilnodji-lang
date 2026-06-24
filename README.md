@@ -40,24 +40,24 @@ Passionné par l'intersection des mathématiques appliquées et de la donnée, j
 * **Description :** Utilisation de la régression multiple pour prédire les tarifs des taxis, données
 qui seront utilisées dans le cadre d’une suite de modèles visant à optimiser les revenus de la Commission des
 taxis et limousines de New York et de ses chauffeurs.
-* 👉 [Dépository 1](https://github.com/mndilnodji-lang/Prevision-des-pourboires-des-taxis-dans-la-ville-de-New-York)
+* 👉 [Voir le repository](https://github.com/mndilnodji-lang/Prevision-des-pourboires-des-taxis-dans-la-ville-de-New-York)
 
 ### 📊 Projet 2 : Classification des vidéos TikTok
 * **Description :** Utilisation de statsmodels et de Scikit-learn pour prédire si les vidéos
 présentaient des affirmations ou des opinions afin d’améliorer le processus de triage des vidéos pour un examen
 humain. 
-* 👉 [Voir le repository](lien-vers-ton-repo-2)
+* 👉 [Voir le repository](https://github.com/mndilnodji-lang/Classification-des-videos-TikTok)
 
 ### 📊 Projet 3 : Classification des données Waze
 * **Description :** Utilisation de Arbre décisionnel, Forêts d’arbres décisionnels et XGBoost pour prédire
 le taux de désabonnement des utilisateurs de Waze. 
-* 👉 [Voir le repository](lien-vers-ton-repo-3)
+* 👉 [Voir le repository](https://github.com/mndilnodji-lang/Classification-des-donnees-Waze)
 
 ### 📊 Projet 4 : Classification des aéroports
 * **Description :** Utilisation de K-means et fuzzy K-means pour identifier les aéroports
 similaires en fonction du nombre d’occurrences d’événements météorologiques survenus dans cet aéroport
 particulier aux États-Unis. 
-* 👉 [Voir le repository](lien-vers-ton-repo-4)
+* 👉 [Voir le repository](https://github.com/mndilnodji-lang/Classification-des-aeroports-des-Etats-unis)
 
 ---
 
